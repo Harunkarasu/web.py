@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Teknoloji bağımlılığımı önlemenin yolları</title>
+</head>
+<body>
+    <h1>Kendimizi nasıl kısıtlarız?</h1>
+    <p>Kendimize alarm kurabilir ya da irademizi güçlü tutarak kendimizi kısıtlayabiliriz.Bu bizim için çok iyi olur.</p>
+    <h2>Kendimizi kısıtlamazsak olucak şeyler:</h2>
+             <ul>1 - kendi vücudumuzda hastalıklar olabizir.Görme bozukluğu gibi
+                  
+                  
+             
+                </ul>2 - bizde brainrot oluşur.Oluştuğu zaman 3 saat boyunca hiçbirşey yapamaz ve anlayamazsınnız.
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE2aTFxNWEwNmNhaTVtN2llZXZlc2JsaWRndm5seXllNzMzcDhrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BDX9W6XPx6Q8/giphy.gif" alt="Image1">
+    
+     
+</body>
+</html>
+
+
+
+colors:
+
+
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: purple; /* Web sayfasının arka plan rengi */
+    color: #969054; /* Metin rengi */
+}
+
+h1 {
+    color: #96c90c; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+h2 {
+    color: #96c90c; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+p {
+    color: #96c90c; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+ul {
+    color: #96c90c; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
